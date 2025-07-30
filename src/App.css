@@ -1,7 +1,6 @@
 #root {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
   text-align: center;
 }
 
@@ -9,8 +8,21 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  min-height: 100vh;
   background-color: #cacaca;
   color: #333;
   font-family: Arial, sans-serif;
 
+}
+
+.App h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+/* Responsive layout for tablets and mobile */
+@media (max-width: 768px) {
+  .App h1{
+    font-size: 1.5rem;
+  }
 }

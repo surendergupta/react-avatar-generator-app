@@ -1,0 +1,30 @@
+const avatarStyles = [
+  { style: 'adventurer', label: 'Adventurer' },
+  { style: 'adventurer-neutral', label: 'Adventurer Neutral' },
+  { style: 'avataaars', label: 'Avataaars' },
+  { style: 'avataaars-neutral', label: 'Avataaars Neutral' },
+  { style: 'big-ears', label: 'Big Ears' },
+  { style: 'big-ears-neutral', label: 'Big Ears Neutral' },
+  { style: 'big-smile', label: 'Big Smile' },
+  { style: 'bottts', label: 'Bottts' },
+  { style: 'bottts-neutral', label: 'Bottts Neutral' },
+  { style: 'croodles', label: 'Croodles' },
+  { style: 'croodles-neutral', label: 'Croodles Neutral' },
+  { style: 'fun-emoji', label: 'Fun Emoji' },
+  { style: 'icons', label: 'Icons' },
+  { style: 'identicon', label: 'Identicon' },
+  { style: 'initials', label: 'Initials' },
+  { style: 'micah', label: 'Micah' },
+  { style: 'miniavs', label: 'Miniavs' },
+  { style: 'notionists', label: 'Notionists' },
+  { style: 'notionists-neutral', label: 'Notionists Neutral' },
+  { style: 'open-peeps', label: 'Open Peeps' },
+  { style: 'personas', label: 'Personas' },
+  { style: 'pixel-art', label: 'Pixel Art' },
+  { style: 'pixel-art-neutral', label: 'Pixel Art Neutral' },
+  { style: 'rings', label: 'Rings' },
+  { style: 'shapes', label: 'Shapes' },
+  { style: 'thumbs', label: 'Thumbs' }
+];
+
+export default avatarStyles
