@@ -61,7 +61,7 @@ Now open http://localhost:5173 in your browser.
 - 🎨 DiceBear Avatars API (v7)
 - 💅 Custom CSS styling
 - 🔁 `useMemo`, `useEffect`, `setTimeout`, and debounce logic
-= 🌀 react-spinners for loader
+- 🌀 react-spinners for loader
 
 ---
 
